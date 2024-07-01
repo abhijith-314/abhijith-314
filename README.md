@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects on data science
 - 📫 How to reach me https://www.github.com/abhijith-314
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: Some of the programs are kept under ice.
+- ⚡ Fun fact: Somewhere in norway you can put your programs on ice.
 
 <!---
 abhijith-314/abhijith-314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
