@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Python and Julia
 - 💞️ I’m looking to collaborate on projects on data science
-- 📫 How to reach me https://www.github.com/abhijith533
+- 📫 How to reach me https://www.github.com/abhijith553
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Somewhere in norway you can put your programs on ice.
 
