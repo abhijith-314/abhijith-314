@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijith-314
+- 👋 Hi, I’m @abhijith553
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Python and Julia
 - 💞️ I’m looking to collaborate on projects on data science
